@@ -1,0 +1,9 @@
+reviews:
+  review_details: true
+knowledge_base:
+  code_guidelines:
+    enabled: true
+    filePatterns:
+      - "**/.codeagent/*.md"
+      - "**/.codeagent/reviewer/*.md"
+      - "**/REVIEW.md"
